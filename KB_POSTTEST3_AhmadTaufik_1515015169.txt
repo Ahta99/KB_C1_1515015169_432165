@@ -1,0 +1,10 @@
+Pada program ini goal yang ingin dicari adalah pembunuh(X) atau pada kasus program ini adalah siapa yang membunuh Siti,
+pada saat program dirun pertama-tama program akan melakukan unifikasi terhadap klausa, program akan mengecek tiap-tiap fakta
+yang telah dituliskan pada CLAUSES, klausa yang pertama akan dicek adalah 'orang' variabel-variabel yang berada didalam klausa
+'orang' akan dicek satu-persatu lalu setelah itu pengecekan berlanjut ke klausa kedua yaitu klausa 'selingkuh' dan terus dilakukan
+pengecekan hingga keklausa terakhir. hingga pada klausa pembunuh dilakukan pengecekan dengan syarat-syarat berdasarkan fakta-fakta
+yang telah ditulis diatas, syarat pertama pembunuh pastilah orang dengan kemungkinan bisa siapa saja, lalu yang terbunuh sesuai dengan
+fakta yang telah ditulis diatas yaitu Siti selanjutnya syarat ketiga orang yang terbunuh bukanlah yang membunuh lalu syarat keempat
+pembunuhnya adalah orang yang dicurigai lalu syarat kelima dan terakhir pembunuh dan terbunuh sama-sama terkena Zat yang sama.
+Berdasarkan semua fakta tersebut maka dapat dipastikan pembunuhnya adalah budi karena hanya budi yang ternodai dengan Zat yang sama
+dengan Siti.
